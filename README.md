@@ -9,6 +9,8 @@ Data Preparation
 
 The dataset consists of sensor readings from 52 sensors installed on the pump.
 
+Link for dataset -  https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
+
 •	Data preprocessing steps included reading the CSV file, converting the timestamp column to datetime format, and dropping irrelevant columns.
 
 •	Missing values were identified, and specific rows containing significant missing data were dropped.
